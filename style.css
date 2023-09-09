@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.container{ width:50%;
+            margin-left:25%;
+          margin-top:100px;
+        object-position: center;
+        width:50%;
+        margin-left:25%;
+        margin-right:25%;
+    }
+    
+     
+
+
+.container h1{
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+    
+
+
+
+.photo{
+    border:5px solid white;
+    width:100%;}
+   
+
+p{
+    text-align: center;
+    color:white;
+}
